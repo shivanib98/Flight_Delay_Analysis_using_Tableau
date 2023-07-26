@@ -12,3 +12,23 @@ Key Performance Indicators:
 5. On-time flights and their percentage
 6. Delay Hotspots
 7. Average Ground Flight time
+
+Dashboards:
+1. Home Page
+<img src="Home page.jpg">
+
+2. Performance Pilot 
+<img src="Performance Pilot.jpg">
+
+3. General Delay Analysis
+<img src="General Delay Analysis.jpg">
+
+4. Delay Analysis by Airport
+<img src="Delay Analysis by Airport.jpg">
+
+5. Delay Analysis by Airline
+<img src="Delay Analysis by Airline.jpg">
+
+6. Delay Analysis by Time
+<img src="Delay Analysis by Time.jpg">
+
